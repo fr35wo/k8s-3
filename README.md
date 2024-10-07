@@ -243,3 +243,6 @@ spec:
     requests:
       storage: 5Gi
 ```
+
+
+[b71e61de-60fd-4d28-a312-71e827c1e187_ㅁㄴㅇ.pdf](https://github.com/user-attachments/files/17271418/b71e61de-60fd-4d28-a312-71e827c1e187_.pdf)
